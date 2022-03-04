@@ -17,3 +17,9 @@ body{
   .delete{
     cursor: pointer;
   }
+
+  .filtered{
+    display: none !important;
+  }
+  
+  
